@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Procesador",
+        "price": 35000,
+        "thumbnail": "url"
+    },
+    {
+        "id": 2,
+        "title": "Ram",
+        "price": 8500,
+        "thumbnail": "url"
+    },
+    {
+        "id": 3,
+        "title": "Disco",
+        "price": 5000,
+        "thumbnail": "url"
+    },
+    {
+        "id": 4,
+        "title": "Fuente",
+        "price": 15000,
+        "thumbnail": "url"
+    },
+    {
+        "id": 5,
+        "title": "Mother",
+        "price": 6500,
+        "thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.slot-one.com.ar%2Fmotherboards%2Fmothers-intel-10ma-gen%2F&psig=AOvVaw3VuVYpPz-AQPcHyy_VqV2M&ust=1670979164593000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODQmc2w9fsCFQAAAAAdAAAAABAG"
+    },
+    {
+        "id": 6,
+        "title": "Monitor",
+        "price": "45000",
+        "thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fullh4rd.com.ar%2Fprod%2F9856%2Fmonitor-24-samsung-cf390-curvo-freesync&psig=AOvVaw35b7FkXyIz3u0wQ3_colqB&ust=1670979377596000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjWzbKx9fsCFQAAAAAdAAAAABAF"
+    }
+]
